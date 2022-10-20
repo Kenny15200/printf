@@ -1,5 +1,5 @@
 printf project coded 
 by 
-Ajadi Marvellous Oladayo
+Igbo Peter Chinedu
 and
-Odediran Philip Oluseyi
+Kehinde opaleye
